@@ -2,11 +2,11 @@
 
 ## TLDR
 
-AI is like a smart robot that can talk, draw, and help people. It learns from lots of stories and tries to answer questions like a human. Imagine a magic book that reads every book in the world and then talks to you. Thatâ€™s AI!
+AI is like a smart robot that can talk, draw, and help people. It learns from lots of stories and tries to answer questions like a human. Imagine a magic book that reads every book in the world and then talks to you. That's AI!
 
 ## Intro
 
-AI stands for Artificial Intelligence. It means making computers think like humans. One kind of AI is called an LLM (Large Language Model). Itâ€™s a super big brain that learns from a lot of text and tries to understand and answer questions.
+AI stands for Artificial Intelligence. It means making computers think like humans. One kind of AI is called an LLM (Large Language Model). It's a super big brain that learns from a lot of text and tries to understand and answer questions.
 
 ## LLMs and Their Work
 
