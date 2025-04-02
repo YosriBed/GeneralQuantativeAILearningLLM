@@ -16,6 +16,7 @@ def main():
     print("Commit 3")
     print("Commit 4")
     print("Commit 5")
+    print("Commit 6")
     example_function()
 
 if __name__ == "__main__":
