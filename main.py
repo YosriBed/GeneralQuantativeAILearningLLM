@@ -12,6 +12,7 @@ def main():
     print("Others say they wanna see some 'smart AI' shit on my github profile (I'm a javascript developer applying for web dev positions -_-)")
     print("¯\_(ツ)_/¯")
     print('Commit 1')
+    print('Commit 2')
    
     example_function()
 
