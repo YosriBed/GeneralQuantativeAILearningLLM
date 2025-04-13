@@ -13,6 +13,7 @@ def main():
     print("¯\_(ツ)_/¯")
     print('Commit 1')
     print('Commit 2')
+    print('Commit 3')
    
     example_function()
 
