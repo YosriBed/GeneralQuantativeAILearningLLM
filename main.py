@@ -17,6 +17,7 @@ def main():
     print('Commit 4')
     print('Commit 5')
     print('Commit 6')
+    print('Commit 7')
    
     example_function()
 
