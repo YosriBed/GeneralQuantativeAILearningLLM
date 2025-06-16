@@ -18,6 +18,10 @@ def main():
     print('Commit 5')
     print('Commit 6')
     print('Commit 7')
+    print('Commit 8')
+    print('Commit 9')
+    print('Commit 10')
+    print('Commit 11')
    
     example_function()
 
